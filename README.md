@@ -1,33 +1,18 @@
  
+Piece the Puzzle Together https://makecode.com/_9LXL257isdw8 The game is a calm, puzzle-based experience where players move stones into specific target zones offering players a relaxing environment to complete puzzles while engaging in mindful thinking.
 
+Purpose: The game aims to create a mental respite for players and show how coding can serve purposes beyond traditional entertainment, specifically contributing to mental health.
 
-> Open this page at [https://poppyjoness12.github.io/piece-the-puzzle-together/](https://poppyjoness12.github.io/piece-the-puzzle-together/)
+Technologies Used MakeCode Arcade - (Version: Current) for block-based game development JavaScript (limited) - For integrating custom code blocks and logic
 
-## Use as Extension
+Mindfulness-oriented gameplay - Designed to encourage relaxation and mindfulness Custom sprite animations - Moving stone sprites with smooth player control Soothing color palette - Soft pastel colors for a calming visual experience
 
-This repository can be added as an **extension** in MakeCode.
+Setup Requirements: The game was developed on MakeCode Arcade, which requires no installation but can be accessed online at MakeCode Arcade.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/poppyjoness12/piece-the-puzzle-together** and import
+Usage To Play Open the project in MakeCode Arcade or your preferred emulator. Use arrow keys to move the stone and solve puzzles.
 
-## Edit this project ![Build status badge](https://github.com/poppyjoness12/piece-the-puzzle-together/workflows/MakeCode/badge.svg)
+Project Status Project is: In Progress
 
-To edit this repository in MakeCode.
+Additional puzzle complexity - Increase levels and add new challenges Improved visuals - Enhance sprite and background graphics User interface - Add menu screens and player options for sound control
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/poppyjoness12/piece-the-puzzle-together** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/poppyjoness12/piece-the-puzzle-together/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Acknowledgements Thanks to my course instructors for guidance in user experience design and coding logic. Contact Poppy O'Mahony-Jones
