@@ -3,7 +3,7 @@ Piece the Puzzle Together https://makecode.com/_9LXL257isdw8 The game is a calm,
 
 Purpose: The game aims to create a mental respite for players and show how coding can serve purposes beyond traditional entertainment, specifically contributing to mental health.
 
-Technologies Used MakeCode Arcade - (Version: Current) for block-based game development JavaScript (limited) - For integrating custom code blocks and logic
+Technologies Used MakeCode Arcade - (Version: Current) for block-based game development JavaScript 
 
 Mindfulness-oriented gameplay - Designed to encourage relaxation and mindfulness Custom sprite animations - Moving stone sprites with smooth player control Soothing color palette - Soft pastel colors for a calming visual experience
 
